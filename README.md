@@ -1,18 +1,17 @@
-# Quantum Circuits with Qiskit
+# Quantum Optical Circuits with Perceval
 
-This jupyter notebook is a supplementary resource to the author’s working paper  _Quantum Computing: An Overview_. The paper aims to provide an accessible overview of quantum computing. We give high-level explanations of the key quantum properties that are leveraged by a quantum computer, along with the quantum mathematical formalism involved and references for further reading.
+This jupyter notebook is a supplementary resource to the author’s preprint paper  _Photonic Quantum Computing: An Overview_. This paper aims to serve as a starting point for the reader interested in learning the fundamentals of photonic quantum computing. We cover fundamental quantum principles, mathematical foundations, hardware and software tools for programming photonic quantum circuits, and resources for further study.
 
 The notebook has the following sections:
   
-   1. One qubit circuit
+   1. Quandela Cloud account
    
-       2.1. Quantum Coin Game
-       
-   2. Bell states circuit
+   2. Unitary matrices and Optical Circuits
    
        2.1. Run on a quantum simulator
-       
        2.2. Run on a real quantum processor
+       
+   3. Optical Circuit from Gate Circuit
 
 
 ## Installation
@@ -35,7 +34,7 @@ jupyter notebook
 
 ## References
 
-Pereira da Silva, R. (2023), [_Quantum Computing: An Overview_](http://dx.doi.org/10.2139/ssrn.4347584) SSRN Electronic Journal
+Pereira da Silva, R. (2023), [_Photonic Quantum Computing: An Overview_](http://dx.doi.org/10.2139/ssrn.4546053) SSRN Electronic Journal
  
 ## License
 
