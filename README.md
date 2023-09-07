@@ -4,7 +4,7 @@ This jupyter notebook is a supplementary resource to the author’s preprint _Ph
 
 The notebook has the following sections:
   
-   1. Quandela Cloud account
+   1. Quandela Cloud account 
    
    2. Unitary matrices and Optical Circuits
    
