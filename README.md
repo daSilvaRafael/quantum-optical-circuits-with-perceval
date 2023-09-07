@@ -1,6 +1,6 @@
 # Quantum Optical Circuits with Perceval
 
-This jupyter notebook is a supplementary resource to the author’s preprint paper  _Photonic Quantum Computing: An Overview_. This paper aims to serve as a starting point for the reader interested in learning the fundamentals of photonic quantum computing. We cover fundamental quantum principles, mathematical foundations, hardware and software tools for programming photonic quantum circuits, and resources for further study.
+This jupyter notebook is a supplementary resource to the author’s preprint _Photonic Quantum Computing: An Overview_. This paper aims to serve as a starting point for the reader interested in learning the fundamentals of photonic quantum computing. We cover fundamental quantum principles, mathematical foundations, hardware and software tools for programming photonic quantum circuits, and resources for further study.
 
 The notebook has the following sections:
   
